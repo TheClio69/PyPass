@@ -10,3 +10,4 @@ from functions.config import *
 init()
 # Start of the configuration required to generate one or more passwords.
 config()
+# --- End of file --- #
