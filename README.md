@@ -1,10 +1,10 @@
-# PyPass
+# PyPass (in development)
 
 ## Introduction :
 A Python program allowing to generate large-scale passwords or not, with many possible configurations to generate passwords.
 
 ## How i can use it ?
-You only need to put the files on your computer and launch the [main.py](https://github.com/TheClio69/PyPass/blob/master/main.py) file using Python.
+You only need to put the files on your computer and launch the [main.py](https://github.com/TheClio69/PyPass/blob/master/main.py) file using Python. Make sure you have Python installed on your machine and updated.
 
 ## Installation
 ###### Clone the directory 
