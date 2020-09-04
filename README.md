@@ -12,10 +12,12 @@ Python 3.8.5 is required [(click here to update your python version)](https://ww
 To install it, you can simply run the following command: `git clone https://github.com/TheClio69/PyPass/`, or you can recreate the file, embed it, by copying and pasting all the files (Be sure to respect the file formats to avoid problems.) or download it by clicking on [this link](https://github.com/TheClio69/PyPass/archive/master.zip).
 
 ### Install the required modules
+#### Modules required
 List of required modules :
 - [Colored](https://pypi.org/project/colored/)
 
-#### How to install the modules?
+#### How to install a module
+You can just use the command:
 ```
 pip install nameofthemodule
 ```
